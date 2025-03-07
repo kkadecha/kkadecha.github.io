@@ -1,7 +1,7 @@
 ---
-title: "A Policy Management Application"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Community Business Networking & Discovery App"
+excerpt: "a community-driven business application designed to connect users with nearby businesses and services. The app features social media login (Google, Facebook) for seamless onboarding, real-time location-based search and map integration to discover nearby businesses, and background notifications for relevant local updates. It includes an instant messaging system for direct communication, an in-app purchase system for premium features, deep linking for smooth navigation, and a comprehensive profile management module. Users can also engage through an interactive review and rating system, enhancing trust and business visibility within the community."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+a community-driven business application designed to connect users with nearby businesses and services. The app features social media login (Google, Facebook) for seamless onboarding, real-time location-based search and map integration to discover nearby businesses, and background notifications for relevant local updates. It includes an instant messaging system for direct communication, an in-app purchase system for premium features, deep linking for smooth navigation, and a comprehensive profile management module. Users can also engage through an interactive review and rating system, enhancing trust and business visibility within the community.
