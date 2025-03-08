@@ -1,5 +1,5 @@
 ---
-title: "Member Engagement & Event Management Mobile App"
+title: "Member Engagement & Event Management Solution (Mobile Application)"
 excerpt: "A native iOS application designed for member-based organizations, providing a seamless platform for event registration, virtual communities, direct messaging, and real-time updates. The app features a comprehensive member directory, secure in-app payments, push notifications, and a resource library, enhancing engagement and operational efficiency. Users can access personalized dashboards for events and conferences, participate in discussion forums, and receive targeted announcements. The app also supports multi-language functionality and sponsorship integrations, making it a versatile tool for associations. It integrates securely with Association Management Systems (AMS) for real-time data synchronization, ensuring a streamlined and user-friendly experience.<br />**Skills : Objective-C, Swift, SwiftUI, REST APIs, Localization, Git, Agile Methodologies, Team Leadership, Architectural Design **"
 collection: portfolio
 ---
