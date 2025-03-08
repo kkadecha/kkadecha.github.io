@@ -23,5 +23,8 @@ Would love to connect with robotics, AI, and automation enthusiasts to discuss i
 <br /><br />
 <b>Skills : Python, ROS2, Mobile Robotics, Computer Vision, YOLO, Large Language Models (LLM), OLLAMA, Object Detection, Speech-To-Text, Autonoumous Navigation of Mobile Robot, Machine Learning & Deep Learning</b>
 <br />
-[![Watch Video](images/robot_project_thumbnail.jpg)](https://www.youtube.com/watch?v=K_PSj31df3k)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_PSj31df3k" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
